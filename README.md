@@ -136,4 +136,4 @@ Cherry pick all listed commits and apply it on current branch
 
 ## License
 
-MIT © Dinesh Pandiyan
+GNU Public License © Nikhil Tembhare
